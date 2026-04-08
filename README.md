@@ -28,25 +28,25 @@ This project builds an end-to-end Sales Forecasting System that:
 
 ### Monthly Sales Trend
 <p align="center">
-  <img src="assets/Monthly_Sales_Trend.png" width="600"/>
+  <img src="Asset/Monthly_Sales_Trend.png" width="600"/>
 </p>
 
 ### Model Performance Comparison
 <p align="center">
-  <img src="assets/Model_Performance_Comparison.png" width="600"/>
+  <img src="Asset/Model_Performance_Comparison.png" width="600"/>
 </p>
 
 ### Feature Importance (Random Forest)
 <p align="center">
-  <img src="assets/RandomForest_Feature_Importance.png" width="600"/>
+  <img src="Asset/RandomForest_Feature_Importance.png" width="600"/>
 </p>
 
 ### Actual vs Predicted (Random Forest)
 <p align="center">
-  <img src="assets/RandomForest_ActvsPred.png" width="600"/>
+  <img src="Asset/RandomForest_ActvsPred.png" width="600"/>
 </p>
 
 ### Correlation Heatmap
 <p align="center">
-  <img src="assets/Feature_Correlation_Heatmap.png" width="600"/>
+  <img src="Asset/Feature_Correlation_Heatmap.png" width="600"/>
 </p>
