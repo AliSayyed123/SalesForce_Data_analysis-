@@ -25,7 +25,7 @@ This project builds an end-to-end Sales Forecasting System that:
 - GitHub repository with full documentation
 
   ## Key Visualizations
-
+--- 
 ### Monthly Sales Trend
 <p align="center">
   <img src="Asset/Monthly_Sales_Trend.png" width="600"/>
@@ -33,7 +33,7 @@ This project builds an end-to-end Sales Forecasting System that:
 
 ### Model Performance Comparison
 <p align="center">
-  <img src="Asset/Model_Performance_Comparison.png" width="600"/>
+  <img src="Asset/Model_Performance_Comparision.png" width="600"/>
 </p>
 
 ### Feature Importance (Random Forest)
