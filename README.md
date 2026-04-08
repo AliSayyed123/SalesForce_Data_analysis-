@@ -23,3 +23,30 @@ This project builds an end-to-end Sales Forecasting System that:
 - ARIMA time-series forecast
 - Prediction visualizations
 - GitHub repository with full documentation
+
+  ## Key Visualizations
+
+### Monthly Sales Trend
+<p align="center">
+  <img src="assets/Monthly_Sales_Trend.png" width="600"/>
+</p>
+
+### Model Performance Comparison
+<p align="center">
+  <img src="assets/Model_Performance_Comparison.png" width="600"/>
+</p>
+
+### Feature Importance (Random Forest)
+<p align="center">
+  <img src="assets/RandomForest_Feature_Importance.png" width="600"/>
+</p>
+
+### Actual vs Predicted (Random Forest)
+<p align="center">
+  <img src="assets/RandomForest_ActvsPred.png" width="600"/>
+</p>
+
+### Correlation Heatmap
+<p align="center">
+  <img src="assets/Feature_Correlation_Heatmap.png" width="600"/>
+</p>
